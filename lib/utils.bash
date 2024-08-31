@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-GH_REPO="https://github.com/asdf-community/asdf-plugin-manager"
+GH_REPO="https://github.com/its-raj21/asdf-plugin-manager"
 TOOL_NAME="asdf-plugin-manager"
 TOOL_TEST="asdf-plugin-manager list"
 
